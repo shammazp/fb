@@ -1,0 +1,121 @@
+.header{
+    background: skyblue;
+    width: 100%;
+    height: 85px;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px; 
+    float: left;
+}
+.logo-text{
+    width: 50%;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+    margin-left: 170px;
+    margin-top: 30px;
+    color: #ffffff;
+
+}
+.login{
+    width: 50%;
+    float: left ;
+    padding-top: 10px; 
+}
+body{ 
+    margin: 0;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.login-text{
+    color: #ffffff;
+}
+.login-controls {
+    margin-left: 115px;
+}
+.forgotten{
+    color: #0866ff;
+    font-size: 15px;
+    text-decoration: none;
+}
+.button{
+    background-color: #4267b2;
+    color: #ffffff;
+    height: 20px;
+    border-color: #4267b2 ;
+}
+.button:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 115px;
+    padding-top: 60px;
+}
+.right-section{
+    width: 42%;
+    float: left;
+   
+}
+.img{
+    width: 680px;
+    /* padding-left: 115px;
+    padding-top: 60px; */
+}
+.pera{
+    font-size: x-large;
+    font-weight: bold;
+}
+.form-section1{
+    width: 200px;
+   height: 30px;
+   border-radius: 5px;
+   font-size: 15px;
+}
+.form-section2{
+    height: 30px;
+    width: 150px;
+    border-radius: 5px; 
+    font-size: 15px;
+}
+.form-section3{
+    width: 362px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.select{
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+}
+.Gender{
+    margin-top: 30px;
+}
+.para1{
+    font-size: 10px;
+    float: right;
+    padding-right: 245px;
+    color: #4267b2;
+}
+.para2{
+    color: #777;
+    font-size: 11px;
+}
+.button1{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    padding: 0 32px;
+}
+.button1:hover{
+    background-color: #3cc53c;
+}
